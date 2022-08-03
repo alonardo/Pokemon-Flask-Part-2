@@ -1,0 +1,17 @@
+body{
+    background-image: url("../images/background_poke.webp")
+}
+
+.mb-1{
+    width: 400px;
+}
+
+.mb-3{
+    width: 400px;
+}
+
+#poke_photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
